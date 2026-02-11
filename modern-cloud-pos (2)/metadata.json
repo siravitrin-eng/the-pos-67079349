@@ -1,0 +1,5 @@
+{
+  "name": "Modern Cloud POS",
+  "description": "A sleek, professional Point of Sale system featuring Firebase Google Authentication, real-time cart management, and a responsive category-based product interface.",
+  "requestFramePermissions": []
+}
